@@ -35,7 +35,7 @@ $server_url = BASE_URL . 'controller/user-controller.php';
                 <span class="eis-add-on"><span class="glyphicon glyphicon-user"></span></span>
 
                 <label class="radio-inline">
-                    <input type="radio" name="gender" value="male" id="male">Male
+                    <input type="radio" name="gender" value="male" id="male" checked>Male
                 </label>
                 <label class="radio-inline">
                     <input type="radio" name="gender" value="female" id="female">Female
