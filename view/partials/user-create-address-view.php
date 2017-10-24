@@ -19,7 +19,6 @@
   $server_url = BASE_URL . "controller/user-controller.php";
 ?>
 
-<div class="container-fluid" align="center">
     <div class="eis-subscribe" id="eis-subscribe-screen">
        <h1> Create Address </h1>
         <form action="<?= $server_url ?>" class="form-horizontal" method="get" >
@@ -52,5 +51,4 @@
             <button type="submit" class="btn btn-lg btn-info">Submit</button>
         </form>
     </div>
-</div>
 

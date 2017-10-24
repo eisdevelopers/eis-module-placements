@@ -8,7 +8,7 @@ require_once 'config.php';
 
 $server_url = BASE_URL . "controller/user-controller.php";
 ?>
-<div class="container-fluid" align="center">
+
     <div class="eis-subscribe" id="eis-subscribe-screen">
         <h1> Delete User Address </h1>
         <form action="<?= $server_url ?>" class="form-horizontal" method="get" >
@@ -20,6 +20,7 @@ $server_url = BASE_URL . "controller/user-controller.php";
             <br>
           <button type="submit" class="btn btn-lg btn-info">DELETE USER ADDRESS</button>
         </form>
+    </div>
 
             
 

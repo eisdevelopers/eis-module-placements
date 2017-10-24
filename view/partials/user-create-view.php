@@ -17,7 +17,7 @@ require_once 'config.php';
 $server_url = BASE_URL . 'controller/user-controller.php';
 ?>
 
-<div class="container-fluid" align="center">
+
     <div class="eis-subscribe" id="eis-subscribe-screen">
         <h1> Create User </h1>
         <form id="form-user-create" action="<?= $server_url ?>" class="form-horizontal" method="get" >
@@ -118,4 +118,3 @@ $server_url = BASE_URL . 'controller/user-controller.php';
          }
 }
     </script> 
-</div>
