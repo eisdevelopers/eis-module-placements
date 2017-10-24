@@ -1,0 +1,84 @@
+2017-07-13 21:04:39 | SQL : CREATE TABLE IF NOT EXISTS users  (   ID INT PRIMARY KEY ,  fname VARCHAR(40) ,  lname VARCHAR(40) ,  gender VARCHAR(10) ,  mobile VARCHAR(10) ,  email VARCHAR(100) ,  dor VARCHAR(20)  userid VARCHAR(40)  pwd VARCHAR(255)  status VARCHAR(20) ) | CreateUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:05:08 | SQL : CREATE TABLE IF NOT EXISTS users  (   ID INT PRIMARY KEY ,  fname VARCHAR(40) ,  lname VARCHAR(40) ,  gender VARCHAR(10) ,  mobile VARCHAR(10) ,  email VARCHAR(100) ,  dor VARCHAR(20)  userid VARCHAR(40)  pwd VARCHAR(255)  status VARCHAR(20) ) | CreateUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:06:44 | SQL : CREATE TABLE IF NOT EXISTS users  (   ID INT PRIMARY KEY ,  fname VARCHAR(40) ,  lname VARCHAR(40) ,  gender VARCHAR(10) ,  mobile VARCHAR(10) ,  email VARCHAR(100) ,  dor VARCHAR(20)  userid VARCHAR(40)  pwd VARCHAR(255)  status VARCHAR(20) ) | CreateUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:06:45 | SQL : CREATE TABLE IF NOT EXISTS users  (   ID INT PRIMARY KEY ,  fname VARCHAR(40) ,  lname VARCHAR(40) ,  gender VARCHAR(10) ,  mobile VARCHAR(10) ,  email VARCHAR(100) ,  dor VARCHAR(20)  userid VARCHAR(40)  pwd VARCHAR(255)  status VARCHAR(20) ) | CreateUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:07:46 | SQL : CREATE TABLE IF NOT EXISTS users  (   ID INT PRIMARY KEY ,  fname VARCHAR(40) ,  lname VARCHAR(40) ,  gender VARCHAR(10) ,  mobile VARCHAR(10) ,  email VARCHAR(100) ,  dor VARCHAR(20) ,  userid VARCHAR(40) ,  pwd VARCHAR(255) ,  status VARCHAR(20) ) | CreateUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:09:10 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:09:14 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:11:33 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:11:36 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:11:42 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:12:25 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:13:07 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:13:08 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:13:50 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:14:15 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:15:12 | SQL : CREATE TABLE IF NOT EXISTS users  (   ID INT PRIMARY KEY ,  fname VARCHAR(40) ,  lname VARCHAR(40) ,  gender VARCHAR(10) ,  mobile VARCHAR(10) ,  email VARCHAR(100) ,  dor VARCHAR(20) ,  userid VARCHAR(40) ,  pwd VARCHAR(255) ,  status VARCHAR(20) ) | CreateUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:15:23 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:15:45 | SQL : CREATE TABLE IF NOT EXISTS users  (   ID INT PRIMARY KEY ,  fname VARCHAR(40) ,  lname VARCHAR(40) ,  gender VARCHAR(10) ,  mobile VARCHAR(10) ,  email VARCHAR(100) ,  dor VARCHAR(20) ,  userid VARCHAR(40) ,  pwd VARCHAR(255) ,  status VARCHAR(20) ) | CreateUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:22:24 | SQL : CREATE TABLE IF NOT EXISTS users  (   ID INT PRIMARY KEY ,  fname VARCHAR(40) ,  lname VARCHAR(40) ,  gender VARCHAR(10) ,  mobile VARCHAR(10) ,  email VARCHAR(100) ,  dor VARCHAR(20) ,  userid VARCHAR(40) ,  pwd VARCHAR(255) ,  status VARCHAR(20) ) | CreateUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:23:50 | SQL : INSERT INTO users VALUES (null, 'Bilal', 'Wani', 'male', '9008320449', 'bilal@eao.com', '25-Jul-2017','bilalwani', 'test', 'active') | CreateUser
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:24:34 | SQL : INSERT INTO users VALUES (null, 'Bilal', 'Wani', 'male', '9008320449', 'bilal@eao.com', '25-Jul-2017','bilalwani', 'test', 'active') | CreateUser
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:25:34 | SQL : INSERT INTO users VALUES (null, 'Bilal', 'Wani', 'male', '9008320449', 'bilal@eao.com', '25-Jul-2017','bilalwani', 'test', 'active') | CreateUser
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:25:35 | SQL : INSERT INTO users VALUES (null, 'Bilal', 'Wani', 'male', '9008320449', 'bilal@eao.com', '25-Jul-2017','bilalwani', 'test', 'active') | CreateUser
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:27:21 | SQL : DROP TABLE users | DeleteUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:27:41 | SQL : CREATE TABLE IF NOT EXISTS users  (   ID INT PRIMARY KEY  AUTO_INCREMENT,  fname VARCHAR(40) ,  lname VARCHAR(40) ,  gender VARCHAR(10) ,  mobile VARCHAR(10) ,  email VARCHAR(100) ,  dor VARCHAR(20) ,  userid VARCHAR(40) ,  pwd VARCHAR(255) ,  status VARCHAR(20) ) | CreateUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:27:41 | SQL : INSERT INTO users VALUES (null, 'Bilal', 'Wani', 'male', '9008320449', 'bilal@eao.com', '25-Jul-2017','bilalwani', 'test', 'active') | CreateUser
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:29:07 | SQL : CREATE TABLE IF NOT EXISTS users  (   ID INT PRIMARY KEY  AUTO_INCREMENT,  fname VARCHAR(40) ,  lname VARCHAR(40) ,  gender VARCHAR(10) ,  mobile VARCHAR(10) ,  email VARCHAR(100) ,  dor VARCHAR(20) ,  userid VARCHAR(40) ,  pwd VARCHAR(255) ,  status VARCHAR(20) ) | CreateUserTable
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
+2017-07-13 21:29:07 | SQL : INSERT INTO users VALUES (null, 'Bilal', 'Wani', 'male', '9008320449', 'bilal@eao.com', '25-Jul-2017','bilalwani', 'test', 'active') | CreateUser
+C:\wamp\www\eis-modules\eis-login-module-sync\model\user-model.php
+
