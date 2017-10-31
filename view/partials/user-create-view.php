@@ -17,7 +17,7 @@ require_once 'config.php';
 $server_url = BASE_URL . 'controller/user-controller.php';
 ?>
 
-<div class="container-fluid" align="center">
+
     <div class="eis-subscribe" id="eis-subscribe-screen">
         <h1> Create User </h1>
         <form id="form-user-create" action="<?= $server_url ?>" class="form-horizontal" method="get" >
@@ -35,7 +35,7 @@ $server_url = BASE_URL . 'controller/user-controller.php';
                 <span class="eis-add-on"><span class="glyphicon glyphicon-user"></span></span>
 
                 <label class="radio-inline">
-                    <input type="radio" name="gender" value="male" id="male">Male
+                    <input type="radio" name="gender" value="male" id="male" checked>Male
                 </label>
                 <label class="radio-inline">
                     <input type="radio" name="gender" value="female" id="female">Female
@@ -118,4 +118,3 @@ $server_url = BASE_URL . 'controller/user-controller.php';
          }
 }
     </script> 
-</div>
